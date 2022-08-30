@@ -1,4 +1,4 @@
-
+-- SQL file
 DROP DATABASE IF EXISTS myflaskapp;
 CREATE DATABASE myflaskapp;
 CREATE TABLE myflaskapp.users (
